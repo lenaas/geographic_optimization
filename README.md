@@ -14,9 +14,11 @@ WHY WAS IT DONE THIS WAY:
 WHAT COULD BE BETTER IN FUTURE IMPLEMENTATIONS:
 - The calculated distance is not the driving distance between compound and customer. Ex: A distance of 40 km as the crow flies can, if covered by car, result in a driven distance of 45km or similar. A driving distance could also be calculated (see https://towardsdatascience.com/driving-distance-between-two-or-more-places-in-python-89779d691def#1c17). For this, API calls are necessary. Apparently there are next to costly GoogleMapsAPI also open source alternatives which work quite well. The free alternatives just don't offer Real-Time-Traffic-Warnings, but as this is not needed, OpenStreetMap or OSMR could be used.
 
-COSTS FOR CURRENT IMPLEMENTATION:
+COSTS:
 - No direct costs. 
 
-PERFORMANCE FOR CURRENT IMPLEMENTATION:
+PERFORMANCE:
 - Fast calculation of distances due to usage of pandas functions. Results can be expected within less than 5 minutes.
 
+MAINTENANCE:
+- Low maintenance. Whenever new data arises, just export as csv (use the same file name as in the code) and rerun the notebook.
