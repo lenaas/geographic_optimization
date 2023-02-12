@@ -75,4 +75,7 @@ https://www.geeksforgeeks.org/python-calculate-distance-duration-two-places-usin
 - Easy to get the information the business users are looking for.
 - Possibilities to filter.
 
+### TO KEEP IN MIND FOR FUTURE IMPLEMENTATIONS / RECOMMENDATIONS:
+- Usage of better geospatial data (https://www.igismap.com/download-germany-administrative-boundary-shapefiles-states-districts-postal-codes/). Would be $19 (one time pay). This way, the map would be on the zipcode level and not on the administrate area level. 
+
 
