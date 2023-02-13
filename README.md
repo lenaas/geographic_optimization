@@ -81,7 +81,7 @@ https://www.geeksforgeeks.org/python-calculate-distance-duration-two-places-usin
 
 ### WHY WAS IT DONE THIS WAY:
 - Bokeh is one of the new rising visualization libraries. The opportunity to zoom in etc. makes it more attractive than the standard libraries. 
-Also, as the plots can be filtered etc. in html, it shields the business user from the code. There are also many ways to actually visualize the data. In the project, only the standard was used due to a tight schedule.
+Also, as the plots can be filtered etc. in html, it shields the business user from the code. There are also many ways to actually visualize the data. In the project, only the standard was used due to a tight schedule.(Reference project : https://towardsdatascience.com/level-up-your-visualizations-make-interactive-maps-with-python-and-bokeh-7a8c1da911fd / https://colab.research.google.com/drive/1G2QGZO78CRMRNTXqcct48pBaSLLLhpK_?usp=sharing#scrollTo=j1blTDkc0nta).
 
 ### COSTS:
 - No direct costs associated.
