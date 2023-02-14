@@ -41,7 +41,7 @@
 
 ### WHAT WAS DONE:
 - Usage of Dataframes from Distance Calculation (Dataframes with coordinates calculated by ´pgeocode´).
-- Usage of OpenStreetMap to get driving distance by car via API requests. For this, also using ´json´ to store the responses temporary in a readable way and to access properly.
+- Usage of OpenStreetMap to get driving distance by car via API requests. For this, also using ´json´ to store the responses temporary in a readable way and to access properly. Please be aware that the calculated distances are in meters. To get kilometers, conversion is needed.
 
 ### WHY WAS IT DONE THIS WAY:
 - Usage of OpenStreetMap instead of Google Maps API as OpenStreetMap is free..
