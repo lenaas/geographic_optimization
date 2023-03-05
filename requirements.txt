@@ -11,6 +11,7 @@ bokeh @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1fm4
 Bottleneck==1.3.2
 box2d-py @ file:///Users/runner/miniforge3/conda-bld/box2d-py_1636082516232/work
 brotlipy==0.7.0
+build==0.10.0
 certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_477u68wvzm/croot/certifi_1671487773341/work/certifi
 cffi @ file:///opt/concourse/worker/volumes/live/506ff722-306a-4142-6379-cfea99aadbed/volume/cffi_1625814701363/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
@@ -92,6 +93,7 @@ pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pgeocode==0.4.0
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==8.4.0
+pip-tools==6.12.3
 plotly==5.5.0
 polyline==2.0.0
 prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1637050397234/work
@@ -105,6 +107,7 @@ pylint==2.6.0
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
 pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
 pyproj==3.4.1
+pyproject_hooks==1.0.0
 pyrsistent @ file:///opt/concourse/worker/volumes/live/ac52847c-5646-4583-7286-af47061006cb/volume/pyrsistent_1636111017177/work
 PySocks @ file:///opt/concourse/worker/volumes/live/85a5b906-0e08-41d9-6f59-084cee4e9492/volume/pysocks_1594394636991/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
@@ -128,6 +131,7 @@ terminado==0.9.4
 testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
 threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
 toml==0.10.2
+tomli==2.0.1
 torch @ file:///opt/concourse/worker/volumes/live/6dab859c-71b2-4f03-64f1-a28f9654f551/volume/pytorch_1614406971210/work
 torchvision @ file:///opt/concourse/worker/volumes/live/6d58f683-7a53-469e-6315-7367e04ea7a9/volume/torchvision_1622219699179/work
 tornado @ file:///opt/concourse/worker/volumes/live/05341796-4198-4ded-4a9a-332fde3cdfd1/volume/tornado_1606942323372/work
